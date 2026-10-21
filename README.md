@@ -1,5 +1,5 @@
 # Soil-Geochemistry-Depth-Profile-Analysis
-A Python pipeline for analyzing and visualizing synthetic soil horizon data to explore depth-dependent geochemical trends. Developed to support environmental data analysis workflows and academic preparation (such as IMSOGLO).
+A Python pipeline for analyzing and visualizing synthetic soil horizon data to explore depth-dependent geochemical trends. Developed to support environmental data analysis workflows.
 
 ## Overview
 This script generates and evaluates a 30-sample synthetic soil dataset to examine how key chemical properties vary across soil profiles. It handles data simulation, statistical aggregation, and multi-variable plotting using standard data science libraries.
